@@ -5,4 +5,4 @@
 ``` 
 
 
-<img src="https://img.shields.io/badge/blogger-%23FFC300.svg?&style=for-the-badge&logo=blogger&logoColor=white" />
+<img src="https://raw.githubusercontent.com/RicardoValladares/Java/main/22%20y%2023%20-%20servidor%20y%20cliente%20web/22_servidor_WEB%2023_navegador_WEB.png" />
